@@ -1,0 +1,60 @@
+h1 {
+	font-weight:bold;
+	text-align:leftt;
+	
+}
+.izquierdo{
+	background-color:#c3d5ed;
+	text-align:center
+}
+.derecho{
+	margin-left:7%
+}
+
+* {
+	margin: 0 0 0 0;
+	cursor: url(pez2.cur),auto;
+
+	
+}
+#der{
+	text-align:right
+}
+#izq{
+	text-align:left
+}
+
+
+.cur_pointer{
+	cursor: pointer;
+	transition: width 4s, height 4s ;
+
+}
+.cur_pointer:hover{
+	cursor: pointer;
+	width: 70px;
+    height: 70px;
+}
+table {
+	border-collapse: collapse;
+	border: 0px solid #c3d5ed;
+	flex-wrap: wrap;
+}
+#cen{
+	text-align:center
+}
+img {
+  border-radius: 50%;
+}
+h3 {
+	margin-left:7%
+}
+h4 {
+	margin-left:7%
+}
+p {
+	margin-left:7%
+}
+.margin{
+	margin-left:7%
+}
